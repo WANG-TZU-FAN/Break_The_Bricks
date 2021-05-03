@@ -6,7 +6,7 @@
 
 
 
-## Description
+### Description
 ------------
 Break The Bricks
 
@@ -14,13 +14,13 @@ Pictures and sound that used in project were put in "game/dataset" directory.
 
 
 
-## Platform information
+### Platform information
 ---------------------
 Cygwin Ver. 2.905, OS: Win10, 64-bit
 
 
 
-## Compilation Guide
+### Compilation Guide
 ------------------
 1.  File name "Makefile" is for compilation.
 2.  Set working directory to "game" and enter "make" to create an execution file named "game".
