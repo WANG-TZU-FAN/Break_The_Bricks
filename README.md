@@ -1,16 +1,16 @@
 # Break_The_Bricks
 
-## Author: WANG  TZU  FAN
+### Author: FAN of FAN
 
-## Date: May, 4, 2021
+### Date: May, 4, 2021
 
 
 
 ## Description
 ------------
-project 1: Break The Bricks
+Break The Bricks
 
-Pictures and sound that used in project were put in "game/dataset" directory that provided by TAs.
+Pictures and sound that used in project were put in "game/dataset" directory.
 
 
 
